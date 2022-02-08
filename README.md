@@ -2,7 +2,7 @@
 
 Accede al CMS de Extras desde el menú lateral **Extras**.
 
-![](<.gitbook/assets/Extras\_Menu (1).png>)
+![](.gitbook/assets/Menu\_Extras.png)
 
 {% hint style="info" %}
 Si no tienes acceso consulta con el OBPM de TCX, para que pueda gestionarlo.
