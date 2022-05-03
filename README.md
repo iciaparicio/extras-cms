@@ -8,7 +8,7 @@ Accede al CMS de Extras desde el menú lateral **Extras**
 Si no tienes acceso consulta con el OBPM de TCX, para que pueda gestionarlo.
 {% endhint %}
 
-## Antes de empezar...
+## Before you start
 
 #### ¿Qué es un extra?
 
