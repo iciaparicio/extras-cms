@@ -1,6 +1,6 @@
 # Extras CMS
 
-Accede al CMS de Extras desde el menú lateral **Extras**
+Accede al CMS de Extras desde el menú lateral **Extras**.
 
 ![](.gitbook/assets/Menu\_Extras.png)
 
