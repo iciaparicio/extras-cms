@@ -1,9 +1,12 @@
-# Table of contents
+Table of contents
+=================
 
 * [Extras CMS](README.md)
-* [Cómo crear una lista](como-crear-una-lista/README.md)
+* [How to create a list](como-crear-una-lista/README.md) 
   * [Overview](como-crear-una-lista/overview.md)
   * [Contenido](como-crear-una-lista/contenido.md)
-  * [Vista previa](como-crear-una-lista/vista-previa.md)
-* [Cómo hacer un test](como-hacer-un-test.md)
-* [Gestión de Extras](gestion-de-extras.md)
+  * [Preview](como-crear-una-lista/vista-previa.md)
+
+* [How to perform a test](como-hacer-un-test.md)
+* [Extras management](gestion-de-extras.md)
+
