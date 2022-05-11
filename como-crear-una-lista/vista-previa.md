@@ -1,40 +1,44 @@
-# Vista previa
+Preview
+=======
 
-En este último paso dispones de un resumen de la lista de extras que has configurado.
+The last step contains a summary of the list of extras that you have configured.
 
-Además, es desde este paso desde donde puedes iniciar un test para probar el contenido antes de impactar a los usuarios.
+From this step you can also test the content before it impacts users.
 
 ![](../.gitbook/assets/Preview.png)
 
-Este paso te da información sobre:
+This step gives you information about:
 
-* **Extras list title**. Título de la lista de extras bajo la que se muestran los extras.
-* **Number of extras**: Número de extras que tiene en total la lista, aunque esos extras no estén activados (visibles).
-* **Extras (audience or product-id)**: Listado de los extras, por nombre, que contienen la información de la audiencia o del product ID entre paréntesis.
-*   **Action configuration**. Si la lista de extras tiene configurado un enlace entonces se muestra aquí la información correspondiente.
+* **Extras list title** . The title of the extras list under which the extras are displayed.
 
-    👋🏻 Recuerda que este campo es opcional.
+* **Number of extras** : Total number of extras in the list, even if these extras are not activated \(visible\).
 
-Haz clic en **Save** para guardar los campos o haz clic en **Save and Publish** para guardar y publicar los cambios.
+* **Extras \(audience or Product\-ID\)** : List of extras, by name, containing the audience or product ID information in brackets.
 
-### Cómo crear un test
+* **Action configuration** . If a link is configured for the extras list, the corresponding information is displayed here.
 
-Desde este último paso puedes también crear un test para probar el contenido que has configurado antes de impactar a una amplia masa de usuarios.
+  👋🏻 Remember that this is an optional field.
 
-En el campo **User ID (optional)** añade uno o más user IDs, separados únicamente por comas (sin espacios), en los que quieras hacer las pruebas. Haz clic en **Create test** para comenzar el test y poder probar el contenido.
+Click **Save** to save the changes or **Save and Publish** to save and publish the changes.
 
-{% hint style="info" %}
-**Cómo obtener el user ID**
+### How to create a test
 
-1. Asegúrate de tener descargada la versión Enterprise de la app.
-2. Abre la app
-3. Agita el teléfono
-4. Accede a la sección "Autentication"
-5. el número que necesitas es el del campo **User ID**
-{% endhint %}
+From this last step you can also create a test for the content that you have set up before it impacts a large mass of users.
 
-¿Necesitas más información sobre cómo probar el contenido? 👇🏼
+In the **User ID \(optional\)** field you can add one or more user IDs, separated only by commas \(no spaces\), on which you want to test. Click **Create test** to start the test and evaluate the content.
 
-{% content-ref url="../como-hacer-un-test.md" %}
-[como-hacer-un-test.md](../como-hacer-un-test.md)
-{% endcontent-ref %}
+\{% hint style="info" %\}
+**How to obtain the user ID** 
+
+1. Make sure you have the Enterprise version of the app downloaded.
+2. Open the app
+3. Shake the phone
+4. Access the "Authentication" section
+5. the number you need is the one in the field **User ID** \{% endhint %\}
+
+Need more information on how to test the content? 👇🏼
+
+\{% content\-ref url="../como\-hacer\-un\-test.md" %\}
+[como\-hacer\-un\-test.md](../como-hacer-un-test.md)
+\{% endcontent\-ref %\}
+

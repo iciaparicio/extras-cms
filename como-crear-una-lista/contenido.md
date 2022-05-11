@@ -1,48 +1,50 @@
-# Contenido
+Contenido
+=========
 
-El contenido de una lista de extras son justamente los extras. Usa este segundo paso para añadirlos, gestionarlos o borrarlos si ya no son necesarios.
+The contents of a list of extras are no more than the extras themselves. Use this second step to add them, manage them or delete them if they are no longer necessary.
 
-![](../.gitbook/assets/content\_add\_module.png)
+![](../.gitbook/assets/content_add_module.png)
 
-Haz clic en **Add new extra** para añadir un extra a la lista y rellena los campos necesarios:
+Click **Add new extra** to add an extra to the list and fill in the required fields:
 
-**List provider**. Indica de dónde viene la información para configurar los extras de la lista:
+**List provider** . Indicates where the information to configure the extras in the list comes from:
 
-* **Provider by user CMS**. Selecciona esta opción para configurar manualmente el extra.
-* **Provider by Product ID**. Selecciona esta opción para indicar un Product ID y recibir la información del Extra a través de API.
+* **Provider by user CMS** . Select this option to manually configure the extra.
+* **Provider by Product ID** . Select this option to indicate a Product ID and receive the extra information via API.
 
-{% hint style="info" %}
-Esta información te la debería proporcionar tu equipo de desarrollo.
-{% endhint %}
+\{% hint style="info" %\}
+This information should be provided by your development team.
+\{% endhint %\}
 
-**Icon**
+**Icon** 
 
-Añade el icono que representa al extra. La versión por defecto (la de **Icon**) es obligatoria y opcionalmente puedes añadir la versión **Dark icon,** que sería el icono que se muestra al usuario cuando está en _dark mode_ desde la app.
+Add the icon representing the extra. The default version \( **Icon** \) is mandatory and you have the option to add the **Dark icon,** which would be the icon shown to the user on the app when using *dark mode* .
 
-{% hint style="success" %}
-Es recomendable que subas ambas versiones del icono y que lo hagas en formato SVG. También admite formato PNG.
-{% endhint %}
+\{% hint style="success" %\}
+We recommend uploading both versions of the icon in SVG format. PNG format is also supported.
+\{% endhint %\}
 
-**Name of the extra module**. Nombre del extra que aparece bajo el icono.&#x20;
+**Name of the extra module** . Name of the extra that appears under the icon. 
 
-{% hint style="info" %}
-:bulb:Es recomendable que uses un nombre muy corto porque de lo contrario aparecerá cortado.
-{% endhint %}
+\{% hint style="info" %\}
+:bulb: We recommend using a very short name. Otherwise, the name will be cut off.
+\{% endhint %\}
 
-**Action configuration of your extra**
+**Action configuration of your extra** 
 
-* **Not include clickable action**. Selecciona esta opción, marcada por defecto, si no quieres que el icono + texto del extra sean clicables.
-* **Include clickable action**. Marca esta opción para hacer clicable el conjunto de icono + texto del extra y configurar la URL a la que se dirige al usuario cuando haga clic.
-  * **Action navigation to**:&#x20;
-    * **URL**. Selecciona esta opción para incluir una URL manualmente. Indica en el campo Web address la URL a la que dirigir al usuario cuando haga clic en el extra.
-    * **Preconfigured**. Selecciona esta opción para elegir un punto concreto de la app. Indica en el desplegable el punto concreto.
+* **Not include clickable action** . Select this option, which is checked by default, if you don't want the icon \+ text of the extra to be clickable.
+* **Include clickable action** . Check this option to make the icon \+ text of the extra clickable and to set the URL to which the user is directed by clicking on it. 
+  * **Action navigation to** : 
+    * **URL** . Select this option to manually include a URL. Indicates the URL to which the user is directed by clicking on the extra in the Web address field.
+    * **Preconfigured** . Select this option to choose a specific point in the app. Indicates the specific point in the drop\-down menu.
 
-**Audiences**. Selecciona la audiencia a la que tiene que pertenecer el usuario para que pueda ver el extra.
+**Audiences** . Select the audience to which the user must belong in order to see the extra.
 
-{% hint style="success" %}
-🤓Ten en cuenta que dentro de una lista de extras puedes tener extras configurados para diferentes audiencias. Obviamente esto no es un problema pero es importante que no lo olvides porque cuando hagas test o las pruebas necesarias que para que un extra se vea es imprescindible que el usuario pertenezca a esa audiencia.
-{% endhint %}
+\{% hint style="success" %\}
+🤓Please note that you can have extras configured for different audiences within the same list of extras. Obviously, this is not a problem. However, it is important that you remember it because the user must belong to this audience when you run the test\(s\) that are required for an extra to be seen.
+\{% endhint %\}
 
-Si necesitas añadir más extras haz clic en el botón **Add new extra** y repite los pasos descritos en esta sección.
+If you need to add more extras, click on the **Add new extra** button and repeat the steps described in this section.
 
-Haz clic en **Continue** para pasar al último paso.
+Click **Continue** to proceed to the last step.
+
