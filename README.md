@@ -5,8 +5,8 @@ Access the Extras CMS from the **Extras** side menu.
 
 ![](.gitbook/assets/Menu_Extras.png)
 
-\{% hint style ="info" %\} If you don't have access, ask the TCX OBPM for permission.
-\{% endhint%\}
+{% hint style ="info" %} If you don't have access, ask the TCX OBPM for permission.
+{% endhint%}
 
 Before you start
 ----------------
