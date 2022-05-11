@@ -1,8 +1,8 @@
-# Extras CMS
+# Alerts CMS
 
-Accede al CMS de Extras desde el menú lateral **Extras**
+Accede al CMS de alertas desde el menú lateral **Alerts**.
 
-![](.gitbook/assets/Menu\_Extras.png)
+![](<.gitbook/assets/Menu\_alertas (1).png>)
 
 {% hint style="info" %}
 Si no tienes acceso consulta con el OBPM de TCX, para que pueda gestionarlo.
@@ -10,12 +10,9 @@ Si no tienes acceso consulta con el OBPM de TCX, para que pueda gestionarlo.
 
 ## Antes de empezar...
 
-#### ¿Qué es un extra?
+#### ¿Qué es una alerta?
 
-Recuerda que un extra es simplemente un elemento compuesto de icono y de un texto breve.&#x20;
+Una alerta es un mensaje que se le muestra al usuario en alguna de las páginas de la app.&#x20;
 
-#### ¿Por qué son necesarias las listas de extras?
+Las alertas pueden configurarse para tener que ser leídas y hacer algo con ellas (no "cerrables") o pueden configurarse para que el usuario pueda decidir cerrarlas y por tanto omitirlas o ejecutar acciones más adelante ("cerrables").&#x20;
 
-Para poder crear un extra es necesario que ese extra esté incluido en una lista ya que por sí solo no se verá. De hecho, lo más habitual, es que agrupes varios extras bajo un título común y que se vean a modo de lista pero todo esto puedes aprenderlo en esta guía.
-
-¿Empezamos?
