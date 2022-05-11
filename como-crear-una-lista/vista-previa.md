@@ -34,7 +34,7 @@ No campo **User ID (optional)** adiciona um ou mais user IDs, separados apenas c
 2. Abra o app
 3. Agite o telefone
 4. Acesse a seção "Autentication"
-5. o número que você precisa é o do campo **User ID** {% endhint %}
+5. O número que você precisa é o do campo **User ID** {% endhint %}
 
 Você precisa mais informações sobre como testar o conteúdo? 👇🏼
 
