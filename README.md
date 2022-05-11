@@ -8,11 +8,11 @@ Accede al CMS de Extras desde el menú lateral **Extras**
 Si no tienes acceso consulta con el OBPM de TCX, para que pueda gestionarlo.
 {% endhint %}
 
-## Before you start
+## Antes de empezar...
 
 #### ¿Qué es un extra?
 
-Recuerda que un extra es simplemente un elemento compuesto de icono y de un texto breve.&#x20;
+Recuerda que un extra es simplemente un elemento compuesto de icono y de un texto breve.
 
 #### ¿Por qué son necesarias las listas de extras?
 
