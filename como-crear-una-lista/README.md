@@ -13,7 +13,7 @@ The list creation process is divided into several steps.
 
 **Step 1. Overview**. In this step you can configure the general information of the list (Internal name, ID, etc.).
 
-{% content-ref url="overview.md" %\}
+{% content-ref url="overview.md" %}
 [overview.md](overview.md)
 {% endcontent-ref %}
 
