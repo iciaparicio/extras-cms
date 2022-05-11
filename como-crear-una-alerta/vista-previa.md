@@ -1,60 +1,44 @@
-# Vista previa
+Pré\-visualização
+==================
 
-En este último paso dispones de un resumen la alerta que has configurado. Y es también el lugar en el que puedes configurar la vigencia de la alerta.
+Neste último passo, você conta com um resumo da lista de extras configurada.
 
-Además, puedes iniciar un test para probar el contenido antes de impactar a los usuarios.
+Além disso, é a partir deste passo que você poderá iniciar um teste para verificar o conteúdo antes de impactar os usuários.
 
-![](../.gitbook/assets/step4\_alerts.png)
+![](../.gitbook/assets/Preview.png)
 
-### Summary
+Este passo oferece informações sobre:
 
-Obtén un resumen sobre la alerta que has creado:
+* **Extras list title** . Título da lista de extras dentro da qual os extras são exibidos.
 
-* **Type of alert**. Tipo de alerta que has creado: informativa, de advertencia, promocional o de error.&#x20;
-* **Dismiss**. Indica si la alerta se ha configurado para ser cerrada o no.
-* **Title**. Muestra el título de la alerta. \
-  👋🏻 En el caso de alertas preconfiguradas no es posible mostrar el título y se indica _Preconfigured title_ como valor de este campo.
-* **Description**. Muestra la descripción de la alerta.\
-  👋🏻 En el caso de alertas preconfiguradas no es posible mostrar la descripción y se indica _Preconfigured description_ como valor de este campo.
-* **Action configuration**. Si has configurado una o dos acciones aparecen los textos de los enlaces.\
-  👋🏻 En el caso de alertas preconfiguradas no es posible mostrar la descripción y se indica _Preconfigured description_ como valor de este campo.\
+* **Number of extras** : Número de extras total que a lista possui, embora esses extras não estejam ativados \(visíveis\).
 
+* **Extras \(audience or product\-id\)** : Listagem de extras por nome, que contêm entre parêntese as informações do público ou do product ID.
 
-![Ejemplo de alerta con dos acciones configuras](../.gitbook/assets/Ejemplo\_2Acciones.png)
+* **Action configuration** . Se a lista de extras possui um link configurado, então apresentará aqui as informações correspondentes.
 
-### Duration of the alert
+  👋🏻 Lembre\-se de que este campo é opcional.
 
-En este apartado configura, si es necesario, el tiempo en el que la alerta estará vigente.
+Clique em **Save** para salvar os campos ou clique em **Save and Publish** para salvar e publicar as mudanças.
 
-* **No specific time**. Selecciona esta opción si no quieres configurar una vigencia concreta para la alerta. Con esta opción la alerta aparecerá al usuario si la audiencia que tiene configurada le aplica y si la alerta está Publicada.
-* **Specific time**. Selecciona esta opción para indicar la fecha de comienzo y/o la fecha de fin. En este caso la alerta se mostrará al usuario solo en ese intervalo de tiempo y siempre y cuando al usuario le aplique la audiencia que tiene configurada la alerta y además esté Publicada.
+### Como criar um teste
 
-![](../.gitbook/assets/TTL.png)
+A partir deste último passo, você também poderá criar um teste para verificar o conteúdo configurado antes de impactar uma ampla massa de usuários.
 
-Haz clic en **Save** para guardar los campos o haz clic en **Save and Publish** para guardar y publicar los cambios.
+No campo **User ID \(optional\)** adiciona um ou mais user IDs, separados apenas com vírgulas \(sem espaços\), nos quais realizar os testes. Clique em **Create test** para iniciar o teste e poder testar o conteúdo.
 
-### Create test preview (optional)
+\{% hint style="info" %\}
+**Como obter o user ID** 
 
-Desde este último paso puedes también crear un test para probar el contenido que has configurado antes de impactar a una amplia masa de usuarios.&#x20;
+1. Certifique\-se de ter baixado a versão Enterprise do aplicativo.
+2. Abra o app
+3. Agite o telefone
+4. Acesse a seção "Autentication"
+5. o número que você precisa é o do campo **User ID** \{% endhint %\}
 
-{% hint style="success" %}
-🤓 Este paso es opcional aunque es muy recomendable que antes de publicar un contenido lo puedas probar antes.
-{% endhint %}
+Você precisa mais informações sobre como testar o conteúdo? 👇🏼
 
-En el campo **User ID (optional)** añade uno o más user IDs, separados únicamente por comas (sin espacios), en los que quieras hacer las pruebas. Haz clic en **Create test** para comenzar el test y poder probar el contenido.
+\{% content\-ref url="../como\-hacer\-un\-test.md" %\}
+[como\-hacer\-un\-test.md](../como-hacer-un-test.md)
+\{% endcontent\-ref %\}
 
-{% hint style="info" %}
-**Cómo obtener el user ID**
-
-1. Asegúrate de tener descargada la versión Enterprise de la app.
-2. Abre la app
-3. Agita el teléfono
-4. Accede a la sección "Autentication"
-5. el número que necesitas es el del campo **User ID**
-{% endhint %}
-
-¿Necesitas más información sobre cómo probar el contenido? 👇🏼
-
-{% content-ref url="../como-hacer-un-test.md" %}
-[como-hacer-un-test.md](../como-hacer-un-test.md)
-{% endcontent-ref %}
