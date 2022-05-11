@@ -1,47 +1,49 @@
-# Cómo hacer un test
+How to perform a test
+=====================
 
-Aunque en el apartado [Vista previa](como-crear-una-lista/vista-previa.md#como-crear-un-test) has podido comprobar cómo se inicia un test, a continuación puedes saber más sobre este proceso de pruebas de contenido:
+Although you have already been shown how to start a test in the [Preview](como-crear-una-lista/vista-previa.md#como-crear-un-test) section, you can learn more about this content testing process below:
 
-### Cómo publicar el contenido de un test
+### How to publish the content of a test
 
-Para empezar, sabrás que una lista de extras tiene un test en marcha gracias a la etiqueta de estado **TEST**:
+To begin with, you will know that a test is ongoing for a list of extras thanks to the **TEST** status label:
 
-![](.gitbook/assets/test\_tag.png)
+![](.gitbook/assets/test_tag.png)
 
-Para publicar el contenido de un test accede a la lista de extras sobre la que está en marcha ese test.
+To publish the content of a test, access the list of extras for which that test is running.
 
-Al abrir la lista, el contenido aparece dividido en dos pestañas para que puedas ver, en todo momento, el contenido previo al test y el propio contenido del test.
+When you open the list, the content appears divided into two tabs. This allows you to see, at all times, the content prior to the test and the content of the test itself.
 
-![](.gitbook/assets/Test\_tab.png)
+![](.gitbook/assets/Test_tab.png)
 
-{% hint style="warning" %}
-Solo puedes hacer cambios en el contenido si estás en la pestaña **Test**. Usa la otra pestaña para ver el contenido previo a los cambios que has hecho para el test.&#x20;
-{% endhint %}
+\{% hint style="warning" %\}
+You can only make changes to the content if you are in the **Test** tab. Use the other tab to view the content prior to the changes you have introduced for the test. 
+\{% endhint %\}
 
-Cuando te hayas asegurado de que el contenido que tienes en la pestaña **Test**, en todos los pasos, es el contenido que quieres aplicar entonces haz clic en **Save and Publish**. Haz clic en **Yes** en el mensaje de confirmación.
+When you are happy that the content in all steps of the **Test** tab is the content you want to apply, click **Save and Publish** . Click **Yes** in the confirmation message.
 
 ![](.gitbook/assets/SavePublish.png)
 
-Haz clic en **Close** para volver a la pantalla principal de listas de extra, **Extras Lists**.
+Click **Close** to return to the main **Extras Lists** screen.
 
-{% hint style="success" %}
-:thumbsup:En la pantalla principal puedes comprobar que en el estado de la lista ha desaparecido la etiqueta **TEST**.
-{% endhint %}
+\{% hint style="success" %\}
+:thumbsup: On the main screen, you can see that the **TEST** label is no longer shown in the list status.
+\{% endhint %\}
 
-### Cómo descartar un test
+### How to delete a test
 
-Si tras probar el contenido de una lista de extras, con un Test en curso, decides descartar los cambios entonces accede a la lista de extras sobre la que está en marcha ese test.
+If you decide to discard the changes after testing the content of an extras list, you need to access the extras list that the ongoing test applies to.
 
-Haz clic en **Continue** hasta llegar al último paso **Preview** y haz clic en **Discard test**.
+Click **Continue** until you reach the **Preview** , which is the last step. Then, click **Discard test** .
 
 ![](.gitbook/assets/DescartarTest.png)
 
-Cuando descartas un test implica eliminar los cambios que habías hecho sobre la lista de extras y los propios extras y el contenido se crea como estaba previamente, antes del test.
+When you discard a test, all the changes that you had made to the extras list and the extras themselves will be deleted. The content will then be created as it was previously, prior to the test.
 
-### Como añadir, quitar o modificar los Novum user IDs de un test
+### How to add, remove or modify the Novum User IDs of a test
 
-Si necesitas editar el test para poder añadir, quitar o modificar los usuarios que pueden ver un determinado test entonces accede a esa lista.
+If you need to edit the test in order to add, remove or modify the users who can view a certain test, you need to access that list.
 
-En la pestaña **Test** puedes consultar, en el primer paso **Overview**, la información relativa al test: la descripción, quién lo ha iniciado y la fecha de creación.
+In the **Test** tab you can consult, in the first step \( **Overview** \), the information related to the test: its description, who started it and the date on which it was created.
 
-Vete al último paso **Preview** para modificar los números de usuario. También para añadir user ID nuevos o eliminar lo que ya hay. Simplemente edita los valores del campo **User ID (optional)** y haz clic en **Save and Publish** para guardar los cambios.
+Go to the final step \( **Preview** \) to modify the user numbers. At this step, you can also add new user IDs or delete existing ones. Simply edit the values in the **User ID \(optional\)** field and click **Save and Publish** to save the changes.
+
