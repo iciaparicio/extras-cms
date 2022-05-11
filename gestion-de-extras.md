@@ -9,7 +9,7 @@ You can change the visibility of the extra. By default, when you create an extra
 
 If for some reason you prefer to hide this extra, use the control ![](.gitbook/assets/control.png)to disable it. 
 
-Similarly, activate a deactivated extra to make it re\-appear.
+Similarly, activate a deactivated extra to make it re-appear.
 
 ![](.gitbook/assets/ActivarDesactivar.png)
 
@@ -21,11 +21,11 @@ If you are absolutely sure that you do not want the extra to be shown and you wa
 
 ![](.gitbook/assets/borrar_extra.png)
 
-\{% hint style="warning" %\}
-Please note that **deleting an extra** from a list is an **irreversible action** . 
+{% hint style="warning" %}
+Please note that **deleting an extra** from a list is an **irreversible action**. 
 
 :nerd: If you are not sure, we recommend deactivating the extra instead of deleting it.
-\{% endhint %\}
+{% endhint %}
 
 ### Change the order
 
