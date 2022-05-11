@@ -1,21 +1,23 @@
-# Extras CMS
+Extras CMS
+==========
 
-Accede al CMS de Extras desde el menú lateral **Extras**
+Access the Extras CMS from the **Extras** side menu.
 
-![](.gitbook/assets/Menu\_Extras.png)
+![](.gitbook/assets/Menu_Extras.png)
 
-{% hint style="info" %}
-Si no tienes acceso consulta con el OBPM de TCX, para que pueda gestionarlo.
-{% endhint %}
+\{% hint style ="info" %\} If you don't have access, ask the TCX OBPM for permission.
+\{% endhint%\}
 
-## Antes de empezar...
+Before you start
+----------------
 
-#### ¿Qué es un extra?
+#### What is an extra?
 
-Recuerda que un extra es simplemente un elemento compuesto de icono y de un texto breve.
+Remember that an extra is simply an element composed of an icon and a short text. 
 
-#### ¿Por qué son necesarias las listas de extras?
+#### Why are extras lists necessary?
 
-Para poder crear un extra es necesario que ese extra esté incluido en una lista ya que por sí solo no se verá. De hecho, lo más habitual, es que agrupes varios extras bajo un título común y que se vean a modo de lista pero todo esto puedes aprenderlo en esta guía.
+In order to create an extra, this extra must be included in a list. On its own, it will not be displayed. It is most common to group several extras under a single title and for these to be displayed as a list. You can learn all of this in this guide.
 
-¿Empezamos?
+Should we start?
+
