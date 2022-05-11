@@ -1,29 +1,31 @@
-# Cómo crear una lista
+Como criar uma lista
+====================
 
-El primer paso para crear un extra es crear, previamente, una lista. En esa lista se integran después los extras que correspondan.
+O primeiro passo para criar um extra é criar previamente uma lista. Nessa lista serão integrados depois os extras correspondentes.
 
-Haz clic en **Create list** para crear una lista de extras o haz clic en una lista ya existente para incluirlo en esa lista.
+Clique em **Create list** para criar uma lista de extras ou clique em uma lista já existente para incluí\-lo nessa lista.
 
 ![](../.gitbook/assets/CreateListButtonDetail.png)
 
-El proceso de creación de listas está dividido en varios pasos.
+O processo de criação de listas é dividido em vários passos.
 
 ![](../.gitbook/assets/ExtrasSteps.png)
 
-**Paso 1. Overview**. En este paso se configura la información general de la lista (Nombre interno, ID, etc.)
+**Passo 1\. Overview** . Neste passo são configuradas as informações gerais da lista \(Nome interno, ID, etc.\)
 
-{% content-ref url="overview.md" %}
-[overview.md](overview.md)
-{% endcontent-ref %}
+\{% content\-ref url="overview.md" %\}
+overview.md
+\{% endcontent\-ref %\}
 
-**Paso 2. Content**. Aquí se configura la parte más visual de la lista y es donde se gestionan los extras.
+**Passo 2\. Content** . Aqui é configurada a parte mais visual da lista e é onde os extras são gerenciados.
 
-{% content-ref url="contenido.md" %}
-[contenido.md](contenido.md)
-{% endcontent-ref %}
+\{% content\-ref url="contenido.md" %\}
+contenido.md
+\{% endcontent\-ref %\}
 
-**Paso 3. Preview**. El último paso, a modo de resumen, y desde el que además puedes [crear un test](../como-hacer-un-test.md) para validar la configuración antes de impactar a una masa amplia de clientes.
+**Passo 3\. Preview** . O último passo, como um resumo, e a partir do qual você também pode [criar um teste](../como-hacer-un-test.md) para validar a configuração antes de impactar em uma ampla massa de clientes.
 
-{% content-ref url="vista-previa.md" %}
-[vista-previa.md](vista-previa.md)
-{% endcontent-ref %}
+\{% content\-ref url="vista\-previa.md" %\}
+[vista\-previa.md](vista-previa.md)
+\{% endcontent\-ref %\}
+

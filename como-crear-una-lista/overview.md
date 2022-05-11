@@ -1,28 +1,31 @@
-# Overview
+Overview
+========
 
-En este primer paso aporta la información general sobre la lista.
+Neste primeiro passo, forneça as informações gerais sobre a lista.
 
 ![](../.gitbook/assets/Overview.png)
 
-Rellena los siguientes campos:
+Preencha os seguintes campos:
 
-**List name (for internal use)**. Nombre de la lista que estás creado. Es un campo de uso interno y por tanto no se ve en la app en ningún momento.&#x20;
+**List name \(for internal use\)** . Nome a lista que está sendo criada. É um campo de uso interno e, portanto, em nenhum momento será visualizado no app. 
 
-**List ID**. Este campo se rellena de manera automática cuando completas el campo **List name (for internal use)**. Puedes cambiar el valor propuesto pero ten en cuenta que este campo no admite espacios, tildes u otros caracteres especiales.&#x20;
+**List ID** . Este campo é preenchido de maneira automática quando o campo **List name \(for internal use\)** é completado. Você pode mudar o valor proposto, mas observe que este campo não admite espaços, acentos ou outros caracteres especiais. 
 
-**Target page**. Selecciona la página objetivo en la que se va a mostrar la lista que estás configurando.
+**Target page** . Selecione a página alvo em que a lista que está sendo configurada será exibida.
 
-**List title**. Indica el título de la lista. Este título es el que se muestra a los usuarios de la app. Este título aparece en la parte superior del grupo de extras.
+**List title** . Digite o título da lista. Este título será o exibido aos usuários do app. Este título aparece na parte superior do grupo de extras.
 
-**Link for the list**. De manera opcional, puedes añadir un enlace a la lista. Configura:
+**Link for the list** . De maneira opcional, você pode adicionar um link à lista. Configure:
 
-* **Link text action**. Este es el texto que será clicable
-* **Action navigation to**. Selecciona aquí una de las dos opciones disponibles:
-  * **URL**. Indica manualmente, en el campo Web address, la URL a la que dirigir al usuario cuando haga clic en el texto (el que has indicado en **Link text action**).&#x20;
-  *   **Preconfigured**. Usa una de las URLs ya predefinidas que llevan al usuario a puntos concretos de la app.
+* **Link text action** . Este será o texto clicável
+* **Action navigation to** . Selecione aqui uma das duas opções disponíveis: 
+  * **URL** . Indique em forma manual, no campo Web address, a URL para a qual o usuário será direcionado ao clicar no texto \(aquele indicado no **Link text action** \). 
 
-      Si haces clic en **View ID information** puedes consultar la URL completa que se corresponde con la selección que has hecho.
+  * **Preconfigured** . Use uma das URLs pré\-definidas que levam o usuário para pontos específicos do app.
 
-![Información ](../.gitbook/assets/URL\_Information\_preconfigured.png)
+    Se você clicar em **View ID information** , poderá consultar a URL completa que corresponde à seleção realizada.
 
-Haz clic en **Continue** para pasar al siguiente paso.
+![Informações ](../.gitbook/assets/URL_Information_preconfigured.png)
+
+Clique em **Continue** para ir ao próximo passo.
+
