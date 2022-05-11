@@ -1,64 +1,50 @@
-# Contenido
+Conteúdo
+========
 
-Usa este paso para configurar el contenido de la alerta.
+Os extras são, precisamente, o conteúdo de uma lista de extras. Use este segundo passo para adicioná\-los, gerenciá\-los ou excluí\-los se não forem mais necessários.
 
-![](../.gitbook/assets/alerts\_step2.png)
+![](../.gitbook/assets/content_add_module.png)
 
-### Content
+Clique em **Add new extra** para adicionar um extra na lista e preencha os campos necessários:
 
-Rellena los campos necesarios:
+**List provider** . Indique a origem das informações para configurar os extras da lista:
 
-**Type of alert**. Selecciona de qué tipo es la alerta.
+* **Provider by user CMS** . Selecione esta opción para configurar o extra de maneira manual.
+* **Provider by Product ID** . Selecione esta opción para indicar um Product ID e receber as informações do Extra através de API.
 
-* **Informative**. Usa este tipo de alerta para proporcionar información al usuario.&#x20;
-* **Warning**. Usa este tipo de alerta para advertir al usuario y llamar su atención, por ejemplo, sobre acciones que requieran de una acción por su parte.&#x20;
-* **Promotion**. Usa este tipo de alerta para mostrar promociones al usuario.
-* **Error**. Usa este tipo de alerta para mostrar algún tipo de error al usuario.&#x20;
+\{% hint style="info" %\}
+Estas informações devem ser fornecidas por sua equipe de desenvolvimento.
+\{% endhint %\}
 
-{% hint style="success" %}
-Los iconos que se muestran con cada tipo de alerta no son configurables. Puedes usar la previsualización de la parte derecha para ver, de forma aproximada, cómo se mostrará la alerta al usuario.
-{% endhint %}
+**Icon** 
 
-**Dismiss**. Usa las opciones para configurar si la alerta puede o no cerrarse por el usuario.
+Adicione o ícone que representa o extra. A versão predeterminada \(de **Icon** \) é obrigatória e, de maneira opcional, você pode adicionar a versão **Dark icon,** que seria o ícone exibido ao usuário quando ele está em *dark mode* no app.
 
-* **Include closing icon to dismiss alert**. Selecciona esta opción para permitir al usuario cerrar la alerta.&#x20;
+\{% hint style="success" %\}
+É recomendável carregar as duas versões do ícone e no formato SVG. Também admite o formato PNG.
+\{% endhint %\}
 
-{% hint style="warning" %}
-Las alertas solo pueden permanecer cerradas un máximo de 1 año. Pasado ese tiempo la alerta se vuelve a mostrar al usuario a menos que la alerta esté pausada.
-{% endhint %}
+**Name of the extra module** . Nome do extra que aparece embaixo do ícone. 
 
-Indica en el desplegable **Select unit** cuánto tiempo va a transcurrir hasta que se muestre la alerta de nuevo, teniendo en cuenta que el tiempo máximo es de 12 meses.
+\{% hint style="info" %\}
+:bulb:É recomendável usar um nome muito curto, caso contrário, ele aparecerá cortado.
+\{% endhint %\}
 
-![](../.gitbook/assets/Dismiss.png)
+**Action configuration of your extra** 
 
-* **Not include closing icono**. Selecciona esta opción para que la alerta no pueda cerrarse por el usuario. Esto implica que el usuario tendrá que consumir la alerta obligatoriamente y hacer lo que indique la alerta para que desaparezca.\
-  Por ejemplo, una alerta que indique al usuario que no tiene saldo no desaparecerá hasta que vuelva a tener saldo.
+* **Not include clickable action** . Selecione esta opção, marcada em forma predeterminada, se você não deseja que o ícone \+ texto do extra seja clicável.
+* **Include clickable action** . Marque esta opção para tornar clicável o conjunto de ícone \+ texto do extra e configurar a URL para a qual o usuário é direcionado ao clicar. 
+  * **Action navigation to** : 
+    * **URL** . Selecione esta opção para incluir uma URL de maneira manual. Indique no campo Web address a URL para direcionar o usuário quando ele clique no extra.
+    * **Preconfigured** . Selecione esta opção para escolher um ponto específico do app. Indique o ponto específico na lista suspensa.
 
-**Title (optional)**. Título de la alerta. Es un campo opcional.&#x20;
+**Audiences** . Selecione o público ao qual deve pertencer o usuário para que poder visualizar o extra.
 
-**Description**. Descripción de la alerta. Es el texto que explica por qué se muestra la alerta al usuario.
+\{% hint style="success" %\}
+🤓Observe que, dentro de uma lista de extras, você pode encontrar extras configurados para diferentes públicos. Obviamente, isso não é um problema, mas é importante não esquecer, porque ao realizar um teste ou as provas necessárias para visualizar extras, é essencial que o usuário pertença a esse público.
+\{% endhint %\}
 
-{% hint style="danger" %}
-Si has configurado una alerta como _Preconfigured_ en el paso anterior ten en cuenta que esa alerta puede contener un título y contiene obligatoriamente una descripción.
+Se você precisa adicionar mais extras, clique no botão **Add new extra** e repita os passos descritos nesta seção.
 
-Si en este paso 2 rellenas el campo **Title** y/o el campo **Description** entonces la información que pudiera contener la alerta se sustituye por la que indiques para esos campos.
-{% endhint %}
+Clique em **Continue** para ir ao último passo.
 
-**Action configuration**. Indica si la alerta, además de una descripción, lleva algún enlace de navegación:
-
-* **No actions**. La alerta no contiene ninguna enlace.
-* **One action**. La alerta contiene un enlace. Para ese enlace configura:
-  * **Link text actio**n. En texto que se muestra en pantalla y que lleva el enlace asociado.
-  * **Action navigation to**. Selecciona **URL** para configurar una URL externa o selecciona **Preconfigured** para seleccionar una URL de las disponibles.
-
-**Audiences**. Selecciona una audiencia si quieres que la alerta se muestre solo a determinados usuarios que cumplan las condiciones de esa audiencia. Es un campo opcional. Si no seleccionas nada entonces la alerta se muestra a todos los usuarios que cumplan las premisas para que esa alerta se les muestre.
-
-### Alert preview
-
-Utiliza la preview para hacerte una idea de cómo verá el usuario la alerta cuando le aparezca en su dispositivo.
-
-Usa el selector **LIGHT** para cambiar a modo **DARK** y viceversa y poder previsualizar como se ve la alerta cuando el usuario tiene el modo oscuro.
-
-![](../.gitbook/assets/light\_dark.png)
-
-Haz clic en **Continue** para pasar al siguiente paso.

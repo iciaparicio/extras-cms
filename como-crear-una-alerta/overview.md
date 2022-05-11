@@ -1,26 +1,31 @@
-# Overview
+Overview
+========
 
-En este primer paso aporta la información general sobre la alerta que estás creando.
+Neste primeiro passo, forneça as informações gerais sobre a lista.
 
-![](../.gitbook/assets/Create\_alert.png)
+![](../.gitbook/assets/Overview.png)
 
-Rellena los siguientes campos:
+Preencha os seguintes campos:
 
-**Name (for internal use)**. Nombre de la alerta que estás creando. Es un campo de uso interno y por tanto no se ve en la app en ningún momento.
+**List name \(for internal use\)** . Nome a lista que está sendo criada. É um campo de uso interno e, portanto, em nenhum momento será visualizado no app. 
 
-**Description (for internal use)**. Descripción de la alerta que estás creando. Es un campo de uso interno y por tanto no se ve en la app en ningún momento.&#x20;
+**List ID** . Este campo é preenchido de maneira automática quando o campo **List name \(for internal use\)** é completado. Você pode mudar o valor proposto, mas observe que este campo não admite espaços, acentos ou outros caracteres especiais. 
 
-{% hint style="success" %}
-🤓  Usa este campo para describir la alerta y qué consecuencias tiene para el usuario. Esto puede ayudarte a identificar la alerta cuando tengas la lista completa. Además, te puede resultar útil cuando necesites ordenar las alertas y por tanto decidir cuál tiene más importancia que otra.
-{% endhint %}
+**Target page** . Selecione a página alvo em que a lista que está sendo configurada será exibida.
 
-**Public ID**. Este campo se rellena de manera automática cuando completas el campo **Name (for internal use)**. Puedes cambiar el valor propuesto pero ten en cuenta que este campo no admite espacios, tildes u otros caracteres especiales.
+**List title** . Digite o título da lista. Este título será o exibido aos usuários do app. Este título aparece na parte superior do grupo de extras.
 
-**Target page**. Selecciona la página en la que se va a mostrar la alerta.&#x20;
+**Link for the list** . De maneira opcional, você pode adicionar um link à lista. Configure:
 
-**Provider**. Selecciona de dónde viene la información de la alerta:
+* **Link text action** . Este será o texto clicável
+* **Action navigation to** . Selecione aqui uma das duas opções disponíveis: 
+  * **URL** . Indique em forma manual, no campo Web address, a URL para a qual o usuário será direcionado ao clicar no texto \(aquele indicado no **Link text action** \). 
 
-* **Preconfigured**. La información de la alerta y su contenido viene por API. Si optas por configurar la alerta mediante un proveedor de información, selecciónalo en el desplegable **Preconfigured provider**.
-* **New**. El contenido de la alerta se configura de forma manual a través del CMS, en el siguiente paso.
+  * **Preconfigured** . Use uma das URLs pré\-definidas que levam o usuário para pontos específicos do app.
 
-Haz clic en **Continue** para pasar al siguiente paso.
+    Se você clicar em **View ID information** , poderá consultar a URL completa que corresponde à seleção realizada.
+
+![Informações ](../.gitbook/assets/URL_Information_preconfigured.png)
+
+Clique em **Continue** para ir ao próximo passo.
+

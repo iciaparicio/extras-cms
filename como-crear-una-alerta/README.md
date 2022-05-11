@@ -1,27 +1,31 @@
-# Cómo crear una alerta
+Como criar uma lista
+====================
 
-Haz clic en **Create alert** para crear una alerta.&#x20;
+O primeiro passo para criar um extra é criar previamente uma lista. Nessa lista serão integrados depois os extras correspondentes.
 
-![](../.gitbook/assets/Create\_alerts\_Detail.png)
+Clique em **Create list** para criar uma lista de extras ou clique em uma lista já existente para incluí\-lo nessa lista.
 
-El proceso de creación de una alerta está dividido en varios pasos:
+![](../.gitbook/assets/CreateListButtonDetail.png)
 
-![](../.gitbook/assets/Crear\_alerta\_pasos.png)
+O processo de criação de listas é dividido em vários passos.
 
-**Paso 1. Overview**. En este paso se configura la información general de la alerta (Nombre interno, ID, etc.)
+![](../.gitbook/assets/ExtrasSteps.png)
 
-{% content-ref url="overview.md" %}
-[overview.md](overview.md)
-{% endcontent-ref %}
+**Passo 1\. Overview** . Neste passo são configuradas as informações gerais da lista \(Nome interno, ID, etc.\)
 
-**Paso 2. Content**. Aquí se configuran todos los detalles de la alerta.
+\{% content\-ref url="overview.md" %\}
+overview.md
+\{% endcontent\-ref %\}
 
-{% content-ref url="contenido.md" %}
-[contenido.md](contenido.md)
-{% endcontent-ref %}
+**Passo 2\. Content** . Aqui é configurada a parte mais visual da lista e é onde os extras são gerenciados.
 
-**Paso 3. Preview**. El último paso, a modo de resumen, y desde el que además puedes [crear un test](../como-hacer-un-test.md) para validar la configuración antes de impactar a una masa amplia de clientes.
+\{% content\-ref url="contenido.md" %\}
+contenido.md
+\{% endcontent\-ref %\}
 
-{% content-ref url="vista-previa.md" %}
-[vista-previa.md](vista-previa.md)
-{% endcontent-ref %}
+**Passo 3\. Preview** . O último passo, como um resumo, e a partir do qual você também pode [criar um teste](../como-hacer-un-test.md) para validar a configuração antes de impactar em uma ampla massa de clientes.
+
+\{% content\-ref url="vista\-previa.md" %\}
+[vista\-previa.md](vista-previa.md)
+\{% endcontent\-ref %\}
+
