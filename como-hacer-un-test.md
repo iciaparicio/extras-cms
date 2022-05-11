@@ -16,7 +16,7 @@ Uma vez aberta a lista, o conteúdo aparece dividido em duas abas para podar vis
 ![](.gitbook/assets/Test_tab.png)
 
 {% hint style="warning" %}
-Você só pode realizar alterações no conteúdo se estiver na aba de **Teste**. Use a outra aba para visualizar o conteúdo antes das mudanças realizadas para o teste. 
+Você só pode realizar alterações no conteúdo se estiver na aba de **Test**. Use a outra aba para visualizar o conteúdo antes das mudanças realizadas para o teste. 
 {% endhint %}
 
 Quando você tiver certeza de que o conteúdo da aba **Test** , em todas as etapas, é o conteúdo que deseja aplicar, clique em **Save and Publish**. Clique em **Yes** na mensagem de confirmação.
