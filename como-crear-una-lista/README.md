@@ -20,7 +20,7 @@ O processo de criação de listas é dividido em vários passos.
 **Passo 2. Content** . Aqui é configurada a parte mais visual da lista e é onde os extras são gerenciados.
 
 {% content-ref url="contenido.md" %}
-contenido.md
+[contenido.md](contenido.md)
 {% endcontent-ref %}
 
 **Passo 3. Preview** . O último passo, como um resumo, e a partir do qual você também pode [criar um teste](../como-hacer-un-test.md) para validar a configuração antes de impactar em uma ampla massa de clientes.
