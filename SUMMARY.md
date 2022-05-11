@@ -1,9 +1,12 @@
-# Table of contents
+Table of contents
+=================
 
-* [Alerts CMS](README.md)
-* [Cómo crear una alerta](como-crear-una-alerta/README.md)
-  * [Overview](como-crear-una-alerta/overview.md)
-  * [Contenido](como-crear-una-alerta/contenido.md)
-  * [Vista previa](como-crear-una-alerta/vista-previa.md)
-* [Cómo hacer un test](como-hacer-un-test.md)
-* [Cómo reordenar alertas](como-reordenar-alertas.md)
+* [Extras CMS](README.md)
+* [Como criar uma lista](como-crear-una-lista/README.md) 
+  * [Overview](como-crear-una-lista/overview.md)
+  * [Conteúdo](como-crear-una-lista/contenido.md)
+  * [Pré\-visualização](como-crear-una-lista/vista-previa.md)
+
+* [Como fazer um teste](como-hacer-un-test.md)
+* [Gestão de Extras](gestion-de-extras.md)
+
