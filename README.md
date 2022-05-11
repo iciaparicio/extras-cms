@@ -5,7 +5,7 @@ Acesse o CMS de Extras no menu lateral **Extras**
 
 ![](.gitbook/assets/Menu_Extras.png)
 
-\{% hint style="info" %\}
+\{%hint style="info"%\}
 Se você não tiver acesso, consulte o OBPM de TCX para que possam administrá\-lo.
 \{% endhint %\}
 
