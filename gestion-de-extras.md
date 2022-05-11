@@ -1,37 +1,37 @@
-# Gestión de Extras
+Gestão de Extras
+================
 
-Como ya has visto, es en el paso [Contenido](como-crear-una-lista/contenido.md) desde donde configuras los extras. Pero además de crearlos y configurarlos, desde aquí puedes también gestionarlos: eliminar extra, cambiar el orden en el que se muestran dentro de la lista...
+Como você pode observar, é no passo [Conteúdo](como-crear-una-lista/contenido.md) onde são configurados os extras. Mas além de sua criação e configuração, aqui também poderá gerenciá\-los: excluir um extra, mudar a ordem de exibição dentro da lista...
 
+### Ativar/Desativar um extra
 
+Você pode modificar a visibilidade do extra. Por padrão, quando um extra é criado, ele aparece ativado. Ou seja, ele será visível para o usuário que cumpre as condições necessárias para vê\-lo, isto é, ele pertence ao público para o qual o extra é configurado.
 
-### Activar/Desactivar un extra&#x20;
+Se por algum motivo você prefere ocultar esse extra, use o controle ![](.gitbook/assets/control.png)para desativá\-lo. 
 
-Puedes cambiar la visibilidad el extra. Por defecto, cuando creas un extra, ese extra aparece activado, es decir, es visible para el usuario que cumpla las condiciones necesarias para verlo, es decir, pertenezca a la audiencia para la que se configura el extra.
-
-Si por algún motivo prefieres ocultar ese extra usa el control ![](.gitbook/assets/control.png)para desactivarlo.&#x20;
-
-Del mismo modo, activa un extra desactivado para que vuelva a aparecer.
+Da mesma forma, ative um extra desativado para que apareça novamente.
 
 ![](.gitbook/assets/ActivarDesactivar.png)
 
-Haz clic en **Save** para guardar los cambios. Ten en cuenta que si la lista está publicada salvar los cambios implica también publicarlos, aunque el sistema te pedirá confirmación.
+Clique em **Save** para salvar as mudanças. Observe que se a lista está publicada, salvar as mudanças também significa publicá\-las, embora o sistema solicitará a confirmação.
 
-### Eliminar un extra
+### Excluir um extra
 
-Si estás completamente seguro de que no quieres volver a mostrar el extra y quieres eliminarlo, haz clic en ![](.gitbook/assets/borrar\_icono.png).
+Se você tem certeza absoluta de que não quer exibir novamente o extra e deseja eliminá\-lo, clique em ![](.gitbook/assets/borrar_icono.png).
 
-![](.gitbook/assets/borrar\_extra.png)
+![](.gitbook/assets/borrar_extra.png)
 
-{% hint style="warning" %}
-Ten en cuenta que **borrar un extra** de una lista es una **acción irreversible**.&#x20;
+\{% hint style="warning" %\}
+Observe que **apagar um extra** de uma lista é uma **ação irreversível** . 
 
-:nerd:Si no estás del todo seguro es recomendable que en lugar de eliminar el extra lo desactives.
-{% endhint %}
+:nerd:Se você não tiver certeza, é recomendável que em vez de eliminar o extra, ele seja desativado.
+\{% endhint %\}
 
-### Cambiar el orden&#x20;
+### Mudar a ordem
 
-El orden en el que se muestran los extras puedes controlarlo desde el CMS. Es tan sencillo como hacer _drag\&drop_, es decir, arrastrar y soltar a la posición deseada.
+A ordem em que são exibidos os extras pode ser controlado no CMS. Isto é tão simples quanto fazer *drag&drop* , isto é, arrastar e soltar até a posição desejada.
 
-Se muestran en primer lugar los que están arriba.
+Em primeiro lugar, são mostrados os que estão no topo.
 
-![](.gitbook/assets/mover\_extras.gif)
+![](.gitbook/assets/mover_extras.gif)
+
