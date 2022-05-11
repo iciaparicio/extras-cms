@@ -16,12 +16,12 @@ Preencha os seguintes campos:
 
 **Link for the list**. De maneira opcional, você pode adicionar um link à lista. Configure:
 
-* **Link text action**. Este será o texto clicável
+* **Link text action**. Este será o texto clicável.
 * **Action navigation to**. Selecione aqui uma das duas opções disponíveis:
-  * **URL**. Indique em forma manual, no campo Web address, a URL para a qual o usuário será direcionado ao clicar no texto (aquele indicado no **Link text action** ).
+  * **URL**. Indique em forma manual, no campo Web address, a URL para a qual o usuário será direcionado ao clicar no texto (aquele indicado no **Link text action**).
   *   **Preconfigured**. Use uma das URLs pré-definidas que levam o usuário para pontos específicos do app.
 
-      Se você clicar em **View ID information** , poderá consultar a URL completa que corresponde à seleção realizada.
+      Se você clicar em **View ID information**, poderá consultar a URL completa que corresponde à seleção realizada.
 
 ![Informações](../.gitbook/assets/URL\_Information\_preconfigured.png)
 
