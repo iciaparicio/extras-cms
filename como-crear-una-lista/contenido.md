@@ -18,13 +18,13 @@ Estas informações devem ser fornecidas por sua equipe de desenvolvimento.
 
 **Icon** 
 
-Adicione o ícone que representa o extra. A versão predeterminada \(de **Icon** \) é obrigatória e, de maneira opcional, você pode adicionar a versão **Dark icon,** que seria o ícone exibido ao usuário quando ele está em *dark mode* no app.
+Adicione o ícone que representa o extra. A versão predeterminada (de **Icon**) é obrigatória e, de maneira opcional, você pode adicionar a versão **Dark icon**, que seria o ícone exibido ao usuário quando ele está em *dark mode* no app.
 
 {% hint style="success" %}
 É recomendável carregar as duas versões do ícone e no formato SVG. Também admite o formato PNG.
 {% endhint %}
 
-**Name of the extra module** . Nome do extra que aparece embaixo do ícone. 
+**Name of the extra module**. Nome do extra que aparece embaixo do ícone. 
 
 {% hint style="info" %}
 :bulb:É recomendável usar um nome muito curto, caso contrário, ele aparecerá cortado.
