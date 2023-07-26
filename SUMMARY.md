@@ -6,4 +6,4 @@
   * [Contenido](como-crear-una-lista/contenido.md)
   * [Vista previa](como-crear-una-lista/vista-previa.md)
 * [Cómo hacer un test](como-hacer-un-test.md)
-* [Gestión de Extras](gestion-de-extras.md)
+* [Gestión y edición de Extras](gestion-de-extras.md)
