@@ -4,7 +4,9 @@ En este último paso dispones de un resumen de la lista de extras que has config
 
 Además, es desde este paso desde donde puedes iniciar un test para probar el contenido antes de impactar a los usuarios.
 
-![](../.gitbook/assets/Preview.png)
+
+
+<figure><img src="../.gitbook/assets/ExtrasPreviewStep.png" alt=""><figcaption></figcaption></figure>
 
 Este paso te da información sobre:
 
