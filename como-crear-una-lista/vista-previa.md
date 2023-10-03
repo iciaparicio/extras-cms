@@ -21,7 +21,16 @@ Haz clic en **Save** para guardar los campos o haz clic en **Save and Publish** 
 
 Desde este último paso puedes también crear un test para probar el contenido que has configurado antes de impactar a una amplia masa de usuarios.
 
-En el campo **User ID (optional)** añade uno o más user IDs, separados únicamente por comas (sin espacios), en los que quieras hacer las pruebas. Haz clic en **Create test** para comenzar el test y poder probar el contenido.
+#### Test information
+
+Haz clic en **Create test** para comenzar un test.&#x20;
+
+<figure><img src="../.gitbook/assets/CreateTest.png" alt=""><figcaption></figcaption></figure>
+
+* **Description (optional)**. Usa este campo para describir los cambios o el contenido que quieres probar. Es un campo opcional pero es un muy recomendable que lo rellenes porque te ayudará a identificar rápidamente el test que estás creando.
+* &#x20;**User IDs (optional)**. Añade uno o más user IDs, separados únicamente por comas (sin espacios), en los que quieras hacer las pruebas. Este campo solo admite valores numéricos.
+
+Haz clic en **Launch test** para comenzar el test y poder probar el contenido.
 
 {% hint style="info" %}
 **Cómo obtener el user ID**
